@@ -5,9 +5,9 @@
 
 Hello! I am a Web Developer from Viet Nam, Ho Chi Minh City.
 
-📚  I’m working as a Software Engineer, contributing to both frontend and backend to build dynamic web applications.
-🌱  Currently diving deeper into React to expand my expertise.
-⚡  My strengths lie in my relentless curiosity and strong problem-solving skills, which I continually sharpen through platforms like GeeksforGeeks and reading up on the latest tech trends.
+# 📚  I’m working as a Software Engineer, contributing to both frontend and backend to build dynamic web applications.
+# 🌱  Currently diving deeper into React to expand my expertise.
+# ⚡  My strengths lie in my relentless curiosity and strong problem-solving skills, which I continually sharpen through platforms like GeeksforGeeks and reading up on the latest tech trends.
 ## 🛠  Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
